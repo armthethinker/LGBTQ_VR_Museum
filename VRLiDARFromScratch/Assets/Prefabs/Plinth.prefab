@@ -788,12 +788,17 @@ PrefabInstance:
     - target: {fileID: 104832436863753819, guid: 7c0361f7f288a214aa369824ba97dd86,
         type: 3}
       propertyPath: m_ConnectedAnchor.y
-      value: 0.7799994
+      value: 0.77999735
       objectReference: {fileID: 0}
     - target: {fileID: 104832436863753819, guid: 7c0361f7f288a214aa369824ba97dd86,
         type: 3}
       propertyPath: m_ConnectedAnchor.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 104832436863753822, guid: 7c0361f7f288a214aa369824ba97dd86,
+        type: 3}
+      propertyPath: keycodeToPressButton
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 104832436863753823, guid: 7c0361f7f288a214aa369824ba97dd86,
         type: 3}
